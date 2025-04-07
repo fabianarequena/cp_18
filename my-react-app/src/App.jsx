@@ -36,5 +36,5 @@ function App() {
   );
 }
 
-export default App;  // Ensure this is the only export for App
+export default App; 
 
